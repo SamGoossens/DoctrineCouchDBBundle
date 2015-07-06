@@ -18,6 +18,12 @@
     },
     "require-dev": {
     },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://satis.prod.cognosis.be"
+        }
+    ],
     "suggest": {
     },
     "autoload": {
